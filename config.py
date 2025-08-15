@@ -6,7 +6,7 @@ load_dotenv()
 
 DATA_DIR = "data"
 
-INPUT_FILENAME = "1_SZMR EKKE- 20250101.docx"
+INPUT_FILENAME = "input.docx"
 
 API_KEY = os.getenv("API_KEY")
 
